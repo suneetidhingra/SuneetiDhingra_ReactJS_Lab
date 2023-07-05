@@ -1,0 +1,25 @@
+{
+  "expenses": [
+    {
+      "payee": "Rahul",
+      "product": "Bike Repair",
+      "price": "1000",
+      "date": "2022-04-07",
+      "id": 1
+    },
+    {
+      "payee": "Rahul",
+      "product": "Movie",
+      "price": "1044",
+      "date": "2022-04-05",
+      "id": 2
+    },
+    {
+      "payee": "Ramesh",
+      "product": "Vegetables",
+      "price": "366",
+      "date": "2022-04-01",
+      "id": 3
+    }
+  ]
+}
